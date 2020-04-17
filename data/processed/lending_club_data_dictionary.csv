@@ -1,0 +1,20 @@
+name,dtypes,first_value,description
+loan_amnt,float64,5000.0,"The listed amount of the loan applied for by the borrower. If at some point in time, the credit department reduces the loan amount, then it will be reflected in this value."
+term,object, 36 months,The number of payments on the loan. Values are in months and can be either 36 or 60.
+installment,float64,162.87,The monthly payment owed by the borrower if the loan originates.
+grade,int64,2,LC assigned loan grade
+emp_length,int64,10,Employment length in years. Possible values are between 0 and 10 where 0 means less than one year and 10 means ten or more years. 
+home_ownership,object,RENT,"The home ownership status provided by the borrower during registration. Our values are: RENT, OWN, MORTGAGE, OTHER."
+annual_inc,float64,24000.0,The self-reported annual income provided by the borrower during registration.
+verification_status,object,Verified,"Indicates if income was verified by LC, not verified, or if the income source was verified"
+loan_status,int64,1,Current status of the loan
+purpose,object,credit_card,A category provided by the borrower for the loan request. 
+dti,float64,27.65,"A ratio calculated using the borrower’s total monthly debt payments on the total debt obligations, excluding mortgage and the requested LC loan, divided by the borrower’s self-reported monthly income."
+delinq_2yrs,float64,0.0,The number of 30+ days past-due incidences of delinquency in the borrower's credit file for the past 2 years
+inq_last_6mths,float64,1.0,The number of inquiries in past 6 months (excluding auto and mortgage inquiries)
+open_acc,float64,3.0,The number of open credit lines in the borrower's credit file.
+pub_rec,float64,0.0,Number of derogatory public records
+revol_bal,float64,13648.0,Total credit revolving balance
+revol_util,float64,83.7,"Revolving line utilization rate, or the amount of credit the borrower is using relative to all available revolving credit."
+total_acc,float64,9.0,The total number of credit lines currently in the borrower's credit file
+fico_average,float64,737.0,
