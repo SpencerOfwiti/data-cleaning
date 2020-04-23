@@ -43,10 +43,10 @@ plt.show()
 # categorical data
 # bar plot
 sns.barplot(x='Outlet_Identifier', y='Item_Outlet_Sales', data=df)
-plt.savefig('../../reports/figures/bigmart_outlet sales.png')
+plt.savefig('../../reports/figures/bigmart_outlet_sales.png')
 plt.show()
 sns.barplot(x='Outlet_Location_Type', y='Item_Outlet_Sales', data=df)
-plt.savefig('../../reports/figures/bigmart_outlet_location sales.png')
+plt.savefig('../../reports/figures/bigmart_outlet_location_sales.png')
 plt.show()
 sns.barplot(x='Outlet_Size', y='Item_Outlet_Sales', data=df)
 plt.savefig('../../reports/figures/bigmart_outlet_size_sales.png')
