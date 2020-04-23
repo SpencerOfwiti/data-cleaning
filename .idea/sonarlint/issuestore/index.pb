@@ -30,3 +30,9 @@ L
 .gitignore,a/5/a5cc2925ca8258af241be7e5b0381edf30266302
 H
 src/data/lending_club.py,3/2/322c8aea6118bbeb4b95bd7590db7e1317ff4644
+C
+src/data/bigmart.py,a/1/a192f96febbbeff6ba4989452beb7e557674a8ca
+P
+ src/data/standardized_testing.py,5/d/5d44f088653ef23592f60f2f945952d18a2408ef
+B
+src/data/digits.py,9/1/91f4285c8ba5e6bf27dea4f805b914c99506d018
