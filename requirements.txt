@@ -1,3 +1,5 @@
+bokeh
+scikit-learn
 nltk
 matplotlib
 seaborn
