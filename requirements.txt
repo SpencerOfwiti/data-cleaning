@@ -1,3 +1,4 @@
+scipy
 bokeh
 scikit-learn
 nltk
