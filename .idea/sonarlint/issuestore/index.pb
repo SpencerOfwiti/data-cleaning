@@ -36,3 +36,9 @@ P
  src/data/standardized_testing.py,5/d/5d44f088653ef23592f60f2f945952d18a2408ef
 B
 src/data/digits.py,9/1/91f4285c8ba5e6bf27dea4f805b914c99506d018
+@
+src/data/iris.py,3/6/36c100cfb62bf1908c537823884655c0b7ae086b
+H
+src/data/house_prices.py,f/0/f099d5217663a49a8c2c9c2bc02983048fd80c44
+D
+src/data/vehicles.py,5/5/55a2eaede929bb16f06163f80be8262f106cd8b4
