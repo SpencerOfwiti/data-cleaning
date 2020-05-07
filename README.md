@@ -97,7 +97,6 @@ source setup.sh
 
 To run python scripts:
 ```
-# Convert model to TensorFlow lite
 python3 src/data/house_prices.py
 ```
 
