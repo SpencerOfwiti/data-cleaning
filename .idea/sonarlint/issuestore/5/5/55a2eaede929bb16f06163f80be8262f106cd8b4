@@ -1,20 +1,0 @@
-
-kpython:S1192E"LDefine a constant instead of duplicating this literal 'Natural Gas' 3 times.(Ä°Üà8ã»´áš.
-ppython:S1192^"LDefine a constant instead of duplicating this literal 'Engine Size' 5 times.(îà°ªÿÿÿÿÿ8ø˜†åš.
-qpython:S1192&"RDefine a constant instead of duplicating this literal 'Transmission Type' 3 times.(íÖµª8Üàš.
-xpython:S1192"TDefine a constant instead of duplicating this literal 'Engine Displacement' 5 times.(æë°©ùÿÿÿÿ8ë‹§âš.
-mpython:S1192"NDefine a constant instead of duplicating this literal 'Combined MPG' 10 times.(áàĞŒ8ë‹§âš.
-qpython:S11920"RDefine a constant instead of duplicating this literal 'Vehicle Category' 20 times.(»µ¯÷8“ìíàš.
-Kpython:S1481¢"&Remove the unused local variable "ax".(°ŒÓüÿÿÿÿ8€¢ºåš.
-|python:S1192"XDefine a constant instead of duplicating this literal 'CO2 Emission Grams/Mile' 4 times.(ÜÈÑ°üÿÿÿÿ8ë‹§âš.
-mpython:S1192§"HDefine a constant instead of duplicating this literal '\n Year' 3 times.(§ºîÖúÿÿÿÿ8˜ØÓåš.
-hpython:S1192"IDefine a constant instead of duplicating this literal 'City MPG' 3 times.(áàĞŒ8Ô¡Şåš.
-mpython:S1192L"IDefine a constant instead of duplicating this literal 'Gas Type' 6 times.(ê×±Ûıÿÿÿÿ8¦íÇáš.
-npython:S1192"ODefine a constant instead of duplicating this literal 'Vehicle Class' 11 times.(áàĞŒ8“ìíàš.
-npython:S1192“"NDefine a constant instead of duplicating this literal 'Cluster Name' 10 times.(äòÙÇ8îßãš.
-spython:S1192"ODefine a constant instead of duplicating this literal 'Fuel Cost/Year' 4 times.(ÜÈÑ°üÿÿÿÿ8ë‹§âš.
-qpython:S1192"RDefine a constant instead of duplicating this literal 'Fuel Barrels/Year' 3 times.(áàĞŒ8Ô¡Şåš.
-ƒpython:S1192­"cDefine a constant instead of duplicating this literal '\n Number of Vehicles Manufactured' 5 times.( ±Ãè8Ì¸âãš.
-jpython:S1192"KDefine a constant instead of duplicating this literal 'Fuel Type' 13 times.(áàĞŒ8§’£áš.
-tpython:S1192Y"PDefine a constant instead of duplicating this literal 'Fuel Efficiency' 6 times.(¶Ï…ıÿÿÿÿ8„•Áäš.
-kpython:S1192"LDefine a constant instead of duplicating this literal 'Highway MPG' 3 times.(áàĞŒ8Ô¡Şåš.
